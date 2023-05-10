@@ -1,0 +1,15 @@
+C:\Users\Usuariocc\source\repos\GIT\bin\Debug\net6.0\GIT.exe
+C:\Users\Usuariocc\source\repos\GIT\bin\Debug\net6.0\GIT.deps.json
+C:\Users\Usuariocc\source\repos\GIT\bin\Debug\net6.0\GIT.runtimeconfig.json
+C:\Users\Usuariocc\source\repos\GIT\bin\Debug\net6.0\GIT.dll
+C:\Users\Usuariocc\source\repos\GIT\bin\Debug\net6.0\GIT.pdb
+C:\Users\Usuariocc\source\repos\GIT\obj\Debug\net6.0\GIT.csproj.AssemblyReference.cache
+C:\Users\Usuariocc\source\repos\GIT\obj\Debug\net6.0\GIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuariocc\source\repos\GIT\obj\Debug\net6.0\GIT.AssemblyInfoInputs.cache
+C:\Users\Usuariocc\source\repos\GIT\obj\Debug\net6.0\GIT.AssemblyInfo.cs
+C:\Users\Usuariocc\source\repos\GIT\obj\Debug\net6.0\GIT.csproj.CoreCompileInputs.cache
+C:\Users\Usuariocc\source\repos\GIT\obj\Debug\net6.0\GIT.dll
+C:\Users\Usuariocc\source\repos\GIT\obj\Debug\net6.0\refint\GIT.dll
+C:\Users\Usuariocc\source\repos\GIT\obj\Debug\net6.0\GIT.pdb
+C:\Users\Usuariocc\source\repos\GIT\obj\Debug\net6.0\GIT.genruntimeconfig.cache
+C:\Users\Usuariocc\source\repos\GIT\obj\Debug\net6.0\ref\GIT.dll
